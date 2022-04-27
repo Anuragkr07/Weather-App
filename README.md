@@ -25,7 +25,7 @@
 
 <br>
 
-## Find the app [here](https://weather-bot.netlify.app/).
+## Find the app [here](https://weather-app-mu-sand.vercel.app/).
 
 <br>
 
